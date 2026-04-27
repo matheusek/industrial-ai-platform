@@ -35,4 +35,6 @@ make test
 
 ## Next milestone
 
-Day 2 will define the public industrial dataset and the first ingestion flow.
+Day 2 defines the public industrial dataset and the first ingestion flow.
+
+Current dataset decision: `Severstal Steel Defect Detection`.

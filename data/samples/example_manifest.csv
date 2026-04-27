@@ -1,0 +1,4 @@
+image_id,split,width,height,defect_class,has_mask
+0002cc93b.jpg,train,1600,256,3,true
+00031f466.jpg,train,1600,256,,false
+000418bfc.jpg,val,1600,256,1,true
