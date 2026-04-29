@@ -12,6 +12,7 @@ dependencies = [
   "fastapi>=0.115,<1.0",
   "numpy>=1.26,<3.0",
   "pillow>=10.0,<12.0",
+  "pyspark>=3.5,<4.0",
   "uvicorn[standard]>=0.30,<1.0",
 ]
 
